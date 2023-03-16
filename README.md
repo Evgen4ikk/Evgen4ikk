@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Front-end Developer.
+Я начинающий Frontend Developer.
 Учусь на 1 курсе в Томском государственно университете систем управления и радиоэлектроники на профиле "Системы автоматизированного проектирования".
 
 - :zap: Хочу освоить новую проффесию и найти работу.
@@ -31,6 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp
 </div>
 
 ---
