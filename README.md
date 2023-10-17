@@ -5,7 +5,7 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий Frontend Developer.
-Учусь на 1 курсе в Томском государственно университете систем управления и радиоэлектроники на профиле "Системы автоматизированного проектирования".
+Учусь на 2 курсе в Томском государственно университете систем управления и радиоэлектроники на профиле "Системы автоматизированного проектирования".
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
@@ -33,6 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux-toolikt" alt="redux-toolikt" width="40" height="40"/>&nbsp
 </div>
 
 ---
