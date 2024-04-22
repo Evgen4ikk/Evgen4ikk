@@ -9,13 +9,6 @@
 
 ---
 
-### Резюме:
-
-# [Резюме](https://disk.yandex.ru/i/seNg3jMlxaDBOw)
-
-
----
-
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -25,6 +18,10 @@
     <a href="https://vk.com/evgen41kkk" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+     <a href="https://tomsk.hh.ru/resume/aa522553ff0c6204310039ed1f77374759726d" target="_blank"> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" alt="hh" />
+     </a>
+</p>
   </div>
 
 ---
